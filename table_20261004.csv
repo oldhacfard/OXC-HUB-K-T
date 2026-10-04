@@ -1,0 +1,8 @@
+Öğe,Değişiklik
+UI Logo,Yeni Picsart_26-10-04_17-30-00-622.jpg eklendi
+Konum,"TopBar'ın soluna (0, 10, 0.5, -13) pozisyonuna yerleştirildi"
+Boyut,"26x26, hover'da 30x30"
+Köşe,UICorner ile 6px yuvarlatıldı
+ScaleType,Enum.ScaleType.Fit (JPG kırpılmadan sığar)
+TitleLabel,x=44'e kaydırıldı (logo için yer açıldı)
+Hover,Üzerine gelince hafif büyüyor
