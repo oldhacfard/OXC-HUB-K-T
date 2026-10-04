@@ -1,0 +1,8 @@
+Kural,Açıklama
+🚫 Sıra önemli,Önce Ahcttab → sonra ahctbtn → en son ahmdbtsp
+🚫 Tab önce olmalı,Buton eklemeden önce tab'ın var olması gerekir
+🚫 Buton önce olmalı,Script bağlamadan önce butonun eklenmiş olması gerekir
+✅ String kullan,Uzun scriptler için [[ ... ]] daha temiz
+✅ Function tercih et,Kısa scriptler için daha hızlı
+✅ Türkçe karakter,"Tab/buton isimlerinde ş, ğ, ü kullanabilirsin"
+🔔 Uyarılar,Hatalı kullanımda console'a uyarı yazar
